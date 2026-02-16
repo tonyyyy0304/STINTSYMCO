@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260216_021315",
+  "total_rows": 4000,
+  "unique_questions": 4000,
+  "gemini_answers": 4000,
+  "llm_model": "gemini-2.5-flash",
+  "max_workers": 6,
+  "columns": [
+    "q_id",
+    "title",
+    "text",
+    "source"
+  ]
+}
