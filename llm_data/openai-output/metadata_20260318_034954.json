@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260318_034954",
+  "total_rows": 5000,
+  "unique_questions": 5000,
+  "chatgpt_answers": 5000,
+  "llm_model": "gpt-4o-mini",
+  "max_workers": 6,
+  "columns": [
+    "q_id",
+    "title",
+    "text",
+    "source"
+  ]
+}
