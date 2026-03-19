@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260319_083414",
+  "total_rows": 10000,
+  "unique_questions": 10000,
+  "deepseek_answers": 10000,
+  "llm_model": "deepseek-chat",
+  "max_workers": 6,
+  "columns": [
+    "q_id",
+    "title",
+    "text",
+    "source"
+  ]
+}
